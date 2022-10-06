@@ -8,6 +8,6 @@ ACESSANDO DIRETORIO DO INSTALADOR & INICIANDO INSTALAÇÕES ADICIONAIS:
 cd && cd ./install_whaticket && sudo ./install_instancia
 
 #Curso de como Instalar e Configurar a plataforma do Whaticket 
-Adquirir no link abaixo:
+Adquirir no link: 
 https://melissatreinamentos.tec.br/courses/whatsapp-plataforma-whaticket-modulo-1
 
